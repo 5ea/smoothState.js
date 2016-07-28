@@ -36,6 +36,7 @@ Below are some cool sites built with smoothState.js. Feel free to submit a pull 
 * [Rock Werchter](http://www.rockwerchter.be/en) by Rock Werchter
 * [Portfolio Site](http://aaronporter.co/) by [Aaron Porter](https://twitter.com/Aaron_porter)
 * [Open Innovation in Science](http://www.openinnovationinscience.at/home.html) by [Roland Schütz](https://twitter.com/rolandschuetz)
+* [Processwork / Psychotherapy](https://mikolajczyz.com/) by [Mikołaj Czyż](https://mikolajczyz.pl/)
 
 ## Need help?
 
